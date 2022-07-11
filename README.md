@@ -2,6 +2,6 @@
 
 # to run
 
-## npm i
+ npm i
 
-## npm run start
+ npm run start
